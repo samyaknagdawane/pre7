@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+       font-family:'Times New Roman', Times, serif ;
+       background-image: radial-gradient(circle,rgb(12, 218, 22),rgb(23, 23, 23),rgb(128, 0, 255));
+   }
+   div{
+       border:1px solid rgb(29, 228, 56);
+       width:900px;
+       margin-left: 150px;
+       margin-top;200px;
+   }
